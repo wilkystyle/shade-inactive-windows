@@ -7,7 +7,7 @@ const Tweener = imports.ui.tweener;
 const Clutter = imports.gi.Clutter;
 
 const SHADE_TIME = 0.3;
-const SHADE_BRIGHTNESS = -0.3;
+const SHADE_BRIGHTNESS = -0.6;
 
 let on_window_created;
 
